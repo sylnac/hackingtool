@@ -108,6 +108,12 @@ Contributions are welcome! Please read the [pull request template](.github/PULL_
 
 ---
 
+## 📝 Personal Notes
+
+> **Note (personal fork):** I'm using this primarily to study network reconnaissance and port scanning techniques in a home lab environment. The tools I find most useful are under *Information Gathering* and *Port Scanning*. Tested on Ubuntu 22.04 in addition to Kali.
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
