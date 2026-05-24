@@ -41,7 +41,6 @@ This tool is intended for **educational purposes only**. The author is not respo
 - Bash Obfuscation Tools
 - Port Scanning Tools
 - CMS Tools
-- Steganography Tools
 - API Testing Tools
 
 ---
@@ -112,16 +111,10 @@ Contributions are welcome! Please read the [pull request template](.github/PULL_
 
 > **Note (personal fork):** I'm using this primarily to study network reconnaissance and port scanning techniques in a home lab environment. The tools I find most useful are under *Information Gathering* and *Port Scanning*. Tested on Ubuntu 22.04 in addition to Kali.
 
+> **2024-06 update:** Removed the duplicate *Steganography Tools* entry from the features list — it was listed twice.
+
 ---
 
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-## ❤️ Support
-
-If you find this project useful, consider supporting it:
-
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red)](https://github.com/sponsors)
