@@ -111,10 +111,6 @@ Contributions are welcome! Please read the [pull request template](.github/PULL_
 
 > **Note (personal fork):** I'm using this primarily to study network reconnaissance and port scanning techniques in a home lab environment. The tools I find most useful are under *Information Gathering* and *Port Scanning*. Tested on Ubuntu 22.04 in addition to Kali.
 
-> **2024-06 update:** Removed the duplicate *Steganography Tools* entry from the features list — it was listed twice.
+> **2024-06 update:** Removed the duplicate *Steganography Tools* entry from the features list — it was listed twice in the original.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+> **2024-07 update:** Confirmed Docker setup works on Ubuntu 22.04 with Docker Engine 24.x. No changes needed to the Dockerfile.
