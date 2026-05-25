@@ -113,4 +113,4 @@ Contributions are welcome! Please read the [pull request template](.github/PULL_
 
 > **2024-06 update:** Removed the duplicate *Steganography Tools* entry from the features list — it was listed twice in the original.
 
-> **2024-07 update:** Confirmed Docker setup works on Ubuntu 22.04 with Docker Engine 24.x. No changes needed to the Dockerfile.
+> **2024-07 update:** Confirmed Docker setup works on Ubuntu 22.04 with Docker Engine 24.x. No changes needed beyond the existing Dockerfile.
